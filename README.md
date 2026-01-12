@@ -3,6 +3,7 @@
 Você está começando a investir em FIIs ou quer ajustar sua carteira com base em critérios profissionais? Apresentamos a Planilha Estratégica de Alocação em FIIs - 2025, desenvolvida com base nas melhores práticas de gestão de risco e otimização de rendimento para investidores conservadores.
 
 ✅ O que você vai encontrar:
+
 🔹 Distribuição Percentual Ideal de FIIs por Categoria
 Alocação sugerida entre FIIs de PAPEL, TIJOLO, HÍBRIDOS e FOFs, construída para maximizar previsibilidade de renda com baixa volatilidade.
 
